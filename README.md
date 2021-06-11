@@ -1,9 +1,10 @@
-# Robohit
-Robohit is an artificial assistance Make him do anything, yeah anything. He is all yours. 
+# Artificial assistance
+This is simple project which will provide you a asrificial assistance just like alexa.  
+
 
 # Installation
 For windows users
-(run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech pip install speechRecognition
+For the robot to listen to our voice/speech pip install speechRecognition
 
 To speak out, or text to speech pip install pyttsx3
 
