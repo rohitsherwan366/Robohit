@@ -1,5 +1,5 @@
 # Artificial assistance
-This is simple project which will provide you a astificial assistance just like alexa.
+This is simple project which will provide you a artificial assistance just like alexa.
 Make robohit do anything, yeah anything. He is all yours.
 
 
