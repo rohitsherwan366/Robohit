@@ -1,6 +1,6 @@
 # Artificial assistance
 This is simple project which will provide you a artificial assistance just like alexa.
-Make robohit do anything, yeah anything. He is all yours.
+Make robohit do anything, yeah anything. She is all yours.
 
 
 # Installation
